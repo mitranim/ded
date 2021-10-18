@@ -1,0 +1,6 @@
+/*
+!/.*ignore
+!/*.go
+!/*.md
+!/go.mod
+!/unlicense
